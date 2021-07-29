@@ -4,10 +4,7 @@ public class HelloU {
 	
 	public static void main(String[] args) {
 		System.out.print("Hellooooo again");
-		System.out.print("Good Morn");
-
-		
-		
+		System.out.print("Good Morn");	
 	}
 
 }
